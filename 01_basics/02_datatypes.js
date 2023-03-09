@@ -8,6 +8,21 @@ console.log( 3
     console.log("manthan")
 
 
-    let name = "manthan"
-    let age = 19
-    let isLoggedIn = false
+    let name = "manthan" //this is string datatype
+    let age = 19 // this is a number data datatype
+    let isLoggedIn = false 
+    let state; = null
+     // this is undefain
+
+
+    //number => 2 to power 53
+    //bigint
+    //string => ""
+    // boolean => true/false
+    //null => it is also standalone value
+    // undefined =>
+    // symbol => unique   
+
+    // object 
+
+    console.log(typeof "manthan");
