@@ -8,8 +8,8 @@ console.log( 3
     console.log("manthan")
 
 
-    let name = "manthan" //this is string datatype
-    let age = 19 // this is a number data datatype
+    let name = "manthan" 
+    let age = 19 
     let isLoggedIn = false 
     let state; = null
      // this is undefain
