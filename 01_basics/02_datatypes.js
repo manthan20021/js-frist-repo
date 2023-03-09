@@ -25,4 +25,4 @@ console.log( 3
 
     // object 
 
-    console.log(typeof "age");
+    console.log(typeof age);
