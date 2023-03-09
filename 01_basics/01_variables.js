@@ -12,3 +12,8 @@ accountCity = "pune"
 
 console.log(accountId);
 console.table([accountEmail, accountPassword, accountCity])
+
+/*
+prifar not use var 
+becos of issue in block scope and functional scope
+/*
