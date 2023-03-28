@@ -39,3 +39,9 @@ console.log(newStringOne.trim()); //trim is the ueis for cut/trim the extra spse
 const url = "https://manthan.com/manthan%30harale"
 
 console.log(url.replace('%30', '+')) //to replace the url.
+
+console.log(newString);
+console.log(url.includes('manthan'))// to askk the quetion
+console.log(url.includes('ram'))// to askk the quetion
+
+console.log(gameName.split('-')); // to convert string in to ARRAY.
