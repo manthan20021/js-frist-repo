@@ -2,7 +2,7 @@ const accountId = 1212
 let accountEmail = "manthan@gmail.com"
 var accountPassword = "200924"
 accountCity = "amaravati"
-cityAkola = "akolkhed"
+
 
 
 //accountId = 23 this is not allowed
