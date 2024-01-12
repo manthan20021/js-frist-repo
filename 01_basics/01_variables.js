@@ -2,6 +2,7 @@ const accountId = 1212
 let accountEmail = "manthan@gmail.com"
 var accountPassword = "200924"
 accountCity = "amaravati"
+city = "akola"
 
 
 
